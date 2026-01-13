@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Oii 😻👋! Meu nome é Saray</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm1sZWRjdmFjajYwbzVlcGNjMWk1MWJ0MHVxcnpodWpwdjc5c2p5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fHtZJkopvfYYVAhpnk/giphy.gif"  />
 
 ###
 
