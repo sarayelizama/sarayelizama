@@ -1,12 +1,15 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-<h1 align="left">Oii 😻👋</h1>
-<img src="https://camo.githubusercontent.com/beee817d7b6de3e5610570a87c682125feef6337a0cad13d1f96b2fec87f70a2/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3139372f3139373338362e706e67" height="30" alt="brlogo"  />
+<h1 align="left">Oii 😻👋 <img src="https://camo.githubusercontent.com/beee817d7b6de3e5610570a87c682125feef6337a0cad13d1f96b2fec87f70a2/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3139372f3139373338362e706e67" height="30" alt="brlogo"  /></h1>
 
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNwcTdpbDkydzE4MGx0ZnMwbzE0ZDV0aHJsd3RjamFmZnZyeWNkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KbdF8DCgaoIVC8BHTK/giphy.gif"  />
 
 ###
+<h2> ... </h2>
+
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
