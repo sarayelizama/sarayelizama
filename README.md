@@ -1,5 +1,5 @@
 <h1 align="left">Oii 😻👋</h1>
-
+  <img src="https://camo.githubusercontent.com/beee817d7b6de3e5610570a87c682125feef6337a0cad13d1f96b2fec87f70a2/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3139372f3139373338362e706e67" height="10" alt="brlogo"  />
 ###
 
 ###
@@ -30,11 +30,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouzaa/maurodesouzaa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouzaa/maurodesouzaa/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouzaa/maurodesouzaa/output/pacman-contribution-graph.svg">
-</picture>
+
 
 ###
 
