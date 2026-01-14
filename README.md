@@ -3,13 +3,10 @@
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNwcTdpbDkydzE4MGx0ZnMwbzE0ZDV0aHJsd3RjamFmZnZyeWNkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KbdF8DCgaoIVC8BHTK/giphy.gif"  />
 
 ###
-<h2> ... </h2>
 
-
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<br>
+<br>
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -33,10 +30,5 @@
 
 ###
 
-
-
-###
-
-<br clear="both">
 
 
