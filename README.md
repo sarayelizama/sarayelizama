@@ -1,4 +1,4 @@
-<h1 align="left">Hello!! 😻👋 <img src="https://camo.githubusercontent.com/beee817d7b6de3e5610570a87c682125feef6337a0cad13d1f96b2fec87f70a2/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3139372f3139373338362e706e67" height="30" alt="brlogo"  /></h1>
+<h1 align="left">Hello!! 😻. I'm a Front-End development student from <img src="https://camo.githubusercontent.com/beee817d7b6de3e5610570a87c682125feef6337a0cad13d1f96b2fec87f70a2/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3139372f3139373338362e706e67" height="30" alt="brlogo"  /></h1>
 
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNwcTdpbDkydzE4MGx0ZnMwbzE0ZDV0aHJsd3RjamFmZnZyeWNkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KbdF8DCgaoIVC8BHTK/giphy.gif"  />
 
